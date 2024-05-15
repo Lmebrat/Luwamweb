@@ -1,2 +1,2 @@
-# Luwamweb
+# Luwamwep
 personal web
